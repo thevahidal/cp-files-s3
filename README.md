@@ -1,4 +1,4 @@
-# postgres-restore-s3
+# cp-files-s3
 
 A docker image to imply copy files from your local/server to an S3 bucket.
 
